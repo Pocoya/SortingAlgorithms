@@ -15,7 +15,7 @@ complexity  of  O(n2)  in  best,  average  and  worst  cases.
 
 
 
-4) BubbleSort: Bubble sort goes through a list of data bycomparing  two  elements  next  to  each  other.  If  the  elementto  the  left  is  larger,  it  swaps  it  to  the  right  which  meansthat  the  larger  items  tend  to  bubble  to  the  right.  And  thesorted  elements  will  not  be  iterated  over  in  the  next  roundof iteration. Bubble sort has a time complexity ofO(n2)inthe  average  and  worst  cases  andO(n)in  the  best  case  [1].
+4) BubbleSort: Bubble sort goes through a list of data bycomparing  two  elements  next  to  each  other.  If  the  elementto  the  left  is  larger,  it  swaps  it  to  the  right  which  meansthat  the  larger  items  tend  to  bubble  to  the  right.  And  thesorted  elements  will  not  be  iterated  over  in  the  next  roundof iteration. Bubble sort has a time complexity ofO(n2)inthe  average  and  worst  cases  andO(n)in  the  best  case.
 
 
 
